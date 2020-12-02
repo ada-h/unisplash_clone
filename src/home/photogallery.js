@@ -29,7 +29,7 @@ const PhotoGallery = ({ photos, getImageDetail, status }) => {
           photos.map((each, i) => {
             return (
               <div
-                className="card"
+                className="card br-12"
                 key={i}
                 onClick={() => getImageDetail(each.id)}
               >

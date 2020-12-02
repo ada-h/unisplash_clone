@@ -18,7 +18,7 @@ const Index = () => {
   useEffect(() => {
     axios
       .get(
-        `${apiUrl}/search/photos/?client_id=${accesskey}&query=Africa&page=20&per_page=8`
+        `${apiUrl}/search/photos/?client_id=${accesskey}&query=Africa&page=10&per_page=8&order_by=latest`
       )
       .then((res) => {
         setPhotos(res.data.results);
