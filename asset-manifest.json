@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/unsplash_clone/static/css/main.ca22c579.chunk.css",
+    "main.js": "/unsplash_clone/static/js/main.abcc7b6d.chunk.js",
+    "main.js.map": "/unsplash_clone/static/js/main.abcc7b6d.chunk.js.map",
+    "runtime-main.js": "/unsplash_clone/static/js/runtime-main.011af4a2.js",
+    "runtime-main.js.map": "/unsplash_clone/static/js/runtime-main.011af4a2.js.map",
+    "static/css/2.1e918bf3.chunk.css": "/unsplash_clone/static/css/2.1e918bf3.chunk.css",
+    "static/js/2.4afdc7f4.chunk.js": "/unsplash_clone/static/js/2.4afdc7f4.chunk.js",
+    "static/js/2.4afdc7f4.chunk.js.map": "/unsplash_clone/static/js/2.4afdc7f4.chunk.js.map",
+    "static/js/3.989ff559.chunk.js": "/unsplash_clone/static/js/3.989ff559.chunk.js",
+    "static/js/3.989ff559.chunk.js.map": "/unsplash_clone/static/js/3.989ff559.chunk.js.map",
+    "index.html": "/unsplash_clone/index.html",
+    "static/css/2.1e918bf3.chunk.css.map": "/unsplash_clone/static/css/2.1e918bf3.chunk.css.map",
+    "static/css/main.ca22c579.chunk.css.map": "/unsplash_clone/static/css/main.ca22c579.chunk.css.map",
+    "static/js/2.4afdc7f4.chunk.js.LICENSE.txt": "/unsplash_clone/static/js/2.4afdc7f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.011af4a2.js",
+    "static/css/2.1e918bf3.chunk.css",
+    "static/js/2.4afdc7f4.chunk.js",
+    "static/css/main.ca22c579.chunk.css",
+    "static/js/main.abcc7b6d.chunk.js"
+  ]
+}
