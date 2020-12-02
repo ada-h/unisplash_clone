@@ -66,7 +66,7 @@ const Index = () => {
   return (
     <div>
       {modal ? <Modal closebtn={openModal} photo={onephoto}/> : ""}
-      <Header text={searchText} inputChange={setSearchText} status={searching} search={handleSearch}/>
+      <Header text={searchText} inputChange={setSearchText} status={searching} setStatus={setStatus} search={handleSearch}/>
       <PhotoGallery photos={photos} getImageDetail={getImageDetail} status={searching} /> 
     </div>
   );
